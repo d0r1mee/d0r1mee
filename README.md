@@ -5,7 +5,7 @@ Posted by heniczyna, modified by community. See post 'Timeline' for change histo
 Retrieved 2025-12-03, License - CC BY-SA 4.0
 -->
 
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.codewars.com/users/d0r1mee/badges/large)
+![Codewars]([https://www.codewars.com/users/yourUsername/badges/large](https://www.codewars.com/users/d0r1mee/badges/large))
 
 <!--
 **d0r1mee/d0r1mee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

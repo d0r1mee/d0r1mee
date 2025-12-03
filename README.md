@@ -5,7 +5,7 @@ Posted by heniczyna, modified by community. See post 'Timeline' for change histo
 Retrieved 2025-12-03, License - CC BY-SA 4.0
 -->
 
-<p align="center">
+<p align="left">
   <img src="https://www.codewars.com/users/d0r1mee/badges/large" alt="Codewars Badge">
 </p>
 
